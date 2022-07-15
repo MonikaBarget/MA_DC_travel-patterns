@@ -1,6 +1,6 @@
 # MA_DC_travel-patterns
 
-Data tables and charts created for the MA DC thesis written by Adrián Eduardo Humanes Vegazo in the MA Digital Cultures at Maastricht University, 2022
+Data tables and charts created for the MA DC thesis written by <a href="https://github.com/UdeaUdea">Adrián Eduardo Humanes Vegazo</a> in the MA Digital Cultures at Maastricht University, 2022
 
 **Data tables**
 
