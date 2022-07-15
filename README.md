@@ -1,14 +1,15 @@
 # MA_DC_travel-patterns
 
-Data tables and charts created for the MA DC thesis written by...
+Data tables and charts created for the MA DC thesis written by Adrián Eduardo Humanes Vegazo in the MA Digital Cultures at Maastricht University, 2022
 
 **Data tables**
 
-your links
+<a href="https://github.com/MonikaBarget/MA_DC_travel-patterns/tree/main/dataset_untidy">Collected tweets in RTF format (raw)</a>
+<a href="https://github.com/MonikaBarget/MA_DC_travel-patterns/tree/main/dataset_clean">Collected tweets in RTF format (cleaned)</a>
 
-**Charts and maps**
+**Charts created with Voyant Tools**
 
-your links
+<a href="https://github.com/MonikaBarget/MA_DC_travel-patterns">TO BE ADDED</a>
 
 **External data sets used in the thesis:**
 
